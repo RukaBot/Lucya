@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RukaBot/RukaUpdate"
+    "url": "git+https://github.com/RukaBot/Lucya"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RukaBot/RukaUpdate/issues"
+    "url": "https://github.com/RukaBot/Lucya/issues"
   },
-  "homepage": "https://github.com/RukaBot/RukaUpdate#readme"
+  "homepage": "https://github.com/RukaBot/Lucya#readme"
 }

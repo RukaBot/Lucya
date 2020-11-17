@@ -1,4 +1,4 @@
-## RUKA BOT
+## LUCYA BOT
 Virtual GirlFriend Iky
 
 
